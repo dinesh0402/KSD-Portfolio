@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KSD-Portfolio/static/css/main.1fe4c329.css",
-    "main.js": "/KSD-Portfolio/static/js/main.d9a0340b.js",
+    "main.js": "/KSD-Portfolio/static/js/main.74baaa85.js",
     "static/media/Covid.jpg": "/KSD-Portfolio/static/media/Covid.6342fa35005b6df63239.jpg",
     "static/media/realestate.jpg": "/KSD-Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/KSD Portfolio Logo.gif": "/KSD-Portfolio/static/media/KSD Portfolio Logo.6fe80eedbbcb2f44e0b3.gif",
@@ -15,8 +15,8 @@
     "static/media/react.png": "/KSD-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/KSD-Portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/KSD-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/KSD Pic.jpg": "/KSD-Portfolio/static/media/KSD Pic.1db57a87db66f1e86cc1.jpg",
     "static/media/mongo.png": "/KSD-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/Final Photo.jpg": "/KSD-Portfolio/static/media/Final Photo.f5a437416fb20cfa9b14.jpg",
     "static/media/github.png": "/KSD-Portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/KSD-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/KSD-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -28,10 +28,10 @@
     "static/media/javascript.png": "/KSD-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/KSD-Portfolio/index.html",
     "main.1fe4c329.css.map": "/KSD-Portfolio/static/css/main.1fe4c329.css.map",
-    "main.d9a0340b.js.map": "/KSD-Portfolio/static/js/main.d9a0340b.js.map"
+    "main.74baaa85.js.map": "/KSD-Portfolio/static/js/main.74baaa85.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe4c329.css",
-    "static/js/main.d9a0340b.js"
+    "static/js/main.74baaa85.js"
   ]
 }
